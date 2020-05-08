@@ -1,0 +1,17 @@
+    Welcome To SoulCoder Store
+
+ Bill Number(A):    7640
+ Customer Name :    Akshay
+ Customer Mobi :    82336
+
+********************************
+ GOODS		QTY	  COST
+********************************
+ Hair Gel		1	  80
+ Face Powder		4	  300
+ Hair Shampoo		5	  600
+ Cold Drinks		2	  50
+--------------------------------
+ Total		₹ 1030
+ GST		₹ 154.5
+--------------------------------

@@ -1,0 +1,14 @@
+    Welcome To SoulCoder Store
+
+ Bill Number(A):    7324
+ Customer Name :    a
+ Customer Mobi :    3
+
+********************************
+ GOODS		QTY	  COST
+********************************
+ Hair Gel		1	  80
+--------------------------------
+ Total		₹ 80
+ GST		₹ 12.0
+--------------------------------

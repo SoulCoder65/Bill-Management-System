@@ -1,0 +1,23 @@
+    Welcome To SoulCoder Store
+
+ Bill Number(A):    2869
+ Customer Name :    Akshay
+ Customer Mobi :    98312290
+
+********************************
+ GOODS		QTY	  COST
+********************************
+ Hair Gel		2	  160
+ Face Cream		4	  480
+ Body Loshan		1	  180
+ Shaving Cream		6	  330
+ Chips		6	  60
+ Choclates		2	  30
+ Ice Cream		2	  60
+ Rice		5	  150
+ Food Oil		4	  320
+ Tea		2	  600
+--------------------------------
+ Total		₹ 2370
+ GST		₹ 355.5
+--------------------------------

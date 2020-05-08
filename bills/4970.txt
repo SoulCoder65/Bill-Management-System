@@ -1,0 +1,22 @@
+    Welcome To SoulCoder Store
+
+ Bill Number(A):    4970
+ Customer Name :    Ajay Dubey
+ Customer Mobi :    7813721219
+
+********************************
+ GOODS		QTY	  COST
+********************************
+ Hair Gel		1	  80
+ Face Powder		4	  300
+ Hair Shampoo		2	  240
+ Cold Drinks		1	  25
+ Biscuits		5	  125
+ Cup Cakes		5	  100
+ Wheat		5	  115
+ Daal		6	  360
+ Spices		2	  400
+--------------------------------
+ Total		₹ 1745
+ GST		₹ 261.75
+--------------------------------
